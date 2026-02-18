@@ -9,16 +9,16 @@ https://public.tableau.com/views/ProductOnboardingFunnelTimetoFirstPayment/Sales
 ## 📊 Dashboard Screenshots
 
 ### Product Onboarding Funnel Dashboard
-![Funnel Chart](Funnel Chart.png)
+![Funnel Chart](funnel-chart.png)
 
 ### Profitability Analysis
-![Profitability](Profitability Analysis.png)
+![Profitability](profitability-analysis.png)
 
 ### Delivery Performance Dashboard
-![Delivery Performance](Delivery Performance Dashboard.png)
+![Delivery Performance](delivery-performance-dashboard.png)
 
 ### Avg Delivery Time by State
-![Delivery Time](Avg Delivery Time by State.png)
+![Delivery Time](avg-delivery-time-by-state.png)
 
 Project Overview
 
