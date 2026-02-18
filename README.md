@@ -5,6 +5,10 @@ The goal of the project was to practice advanced Tableau features such as LOD ex
 
 🔗 Tableau Dashboard:
 https://public.tableau.com/views/ProductOnboardingFunnelTimetoFirstPayment/SalesProfitTimeSeries?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Delivery Performance Dashboard.png
+Funnel Chart.png
+Profitability Analysis.png
+Avg Delivery Time by State.png
 
 Project Overview
 
