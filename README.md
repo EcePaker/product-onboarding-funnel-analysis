@@ -96,4 +96,4 @@ Cohort Analysis
 https://public.tableau.com/views/ProductOnboardingFunnelConversionAnalysis/ProductOnboardingFunnelConversionAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Dashboard Preview
-![Product Onboarding Funnel Dashboard](dashboard-preview.png)
+![Product Onboarding Funnel Dashboard](product-onboarding-funnel-conversion-analysis.png)
